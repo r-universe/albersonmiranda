@@ -6,3 +6,7 @@
 	path = fio
 	url = https://github.com/albersonmiranda/fio
 	branch = main
+[submodule "fiorefactor"]
+	path = fiorefactor
+	url = https://github.com/albersonmiranda/fiorefactor
+	branch = main
